@@ -20,6 +20,7 @@
 			<outline text="Mexico News Daily" title="Mexico News Daily" description="" xmlUrl="https://mexiconewsdaily.com/feed/" type="rss" />
 			<outline text="El Diario" title="El Diario" description="Noticias en tiempo real de Ciudad Juárez, México y el mundo" xmlUrl="https://diario.mx/jrz/media/sitemaps/rss.xml" type="rss" />
 			<outline text="8 Columnas" title="8 Columnas" description="La nueva era del periodismo" xmlUrl="https://8columnas.com.mx/feed/" type="rss" />
+                        <outline text="Resultadodeltrisdehoy.com" title="Resultadodeltrisdehoy.com" description="Obtenga diariamente los resultados de la Lotería Tris México gratis" xmlUrl="https://resultadodeltrisdehoy.com/sitemap_news.xml" type="rss" />
 			<outline text="" title="" description="" xmlUrl="https://www.eluniversal.com.mx/seccion/1671/rss.xml" type="rss" />
 		</outline>
 	</body>
