@@ -235,6 +235,7 @@ Navbharat Times | https://navbharattimes.indiatimes.com/rssfeedsdefault.cms | ht
 Patrika : India's Leading Hindi News Portal | http://api.patrika.com/rss/india-news | https://www.patrika.com/rss.html 
 JansattaJansatta | https://www.jansatta.com/feed/ | https://www.jansatta.com/syndication/ 
 Live Hindustan Rss feed | https://feed.livehindustan.com/rss/3127 | https://www.livehindustan.com/rss 
+Hindustan Morning Rss feed | https://hindustanmorning.com/feed/ | https://hindustanmorning.com/
 देश - दैनिक भास्कर | https://www.bhaskar.com/rss-feed/1061/ | https://www.bhaskar.com/rss 
 ઈન્ડિયા - દિવ્ય ભાસ્કર | https://www.divyabhaskar.co.in/rss-feed/1037/ | https://www.divyabhaskar.co.in/rss/ 
 ### 🇮🇷 Iran
